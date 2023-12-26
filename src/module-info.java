@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author talar
+ *
+ */
+module DataStructures {
+}
